@@ -45,6 +45,7 @@ class ApiConfig {
 
   // ── Socket.io (no /api suffix) ────────────────────────────────────────────
   static const String socketUrl = baseUrl;
+static const String tomTomKey = '83SaKCaOjYlAcOAtQ8tuc8Am7qgZ7vGd';
 
   // ── Quiz / Study Guide ────────────────────────────────────────────────────
   static const String quizSections   = '$baseUrl/api/quiz/sections';

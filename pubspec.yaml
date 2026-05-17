@@ -23,7 +23,7 @@ dependencies:
   path_provider: ^2.1.2
   syncfusion_flutter_pdfviewer: 33.2.3 # Updated version for stability
   image_picker: ^1.0.7
-
+  
   # --- Added: MapLibre & Navigation Features ---
   maplibre_gl: ^0.22.0
   geolocator: ^13.0.1
